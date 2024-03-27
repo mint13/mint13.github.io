@@ -51,6 +51,13 @@ export default function App() {
   const paletteType = darkMode ? "dark" : "light";
   usePageTracking();
   const theme = createTheme({
+    typography: {
+      fontFamily: [
+        'Ubuntu',
+        'Arial',
+        'sans-serif',
+      ].join(','),
+    },
     palette: {
       mode: paletteType,
       background: {
