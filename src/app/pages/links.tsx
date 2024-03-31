@@ -2,7 +2,7 @@ import {
   FaGithub,
   FaLinkedin,
   FaEnvelope,
-  FaRegIdCard,
+  FaFilePdf,
   FaInstagram,
 } from "react-icons/fa";
 
@@ -35,6 +35,6 @@ export const links = [
     index: 4,
     title: "Curriculum Vitae",
     href: "https://drive.google.com/file/d/1GZGAkCoefk9JHqW4yBQJh_ClMI1L94X0/view",
-    icon: <FaRegIdCard />,
+    icon: <FaFilePdf />,
   },
 ];
