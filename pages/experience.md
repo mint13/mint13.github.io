@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-## **Senior Full Stack Engineer** @ [Comworks Media](https://comworks.com.au/) _(July 2022 - Current)_
+## **Senior Full Stack Engineer** @ [Comworks Media](https://comworks.com.au/) _(February 2022 - Current)_
 - Developing high-level product specifications with attention to system integration and feasibility.
 - Identify, prioritize and execute tasks in the software development life cycle
 - Develop and maintain web applications using PHP, WordPress, Laravel, Vue.js and other related technologies.
@@ -13,22 +13,6 @@
   - Javascript
   - Vue.js
   - MySQL
-
-&nbsp;
-
-## **Senior Full Stack Developer** @ [Winterwind Inc](https://www.winterwind.com/) _(February 2022 - September 2022)_
-
-- Create and sustain websites with proficiency in WordPress, Laravel, and PHP.
-- Encompass both the development and ongoing maintenance of websites, ensuring their seamless functionality and optimal performance.
-- Make high-level design choices and dictates technical standards, including software coding standards, tools, and platforms.
-- _**Technologies used:**_ 
-  - PHP
-  - WordPress
-  - Laravel
-  - Javascript
-  - Vue.js
-  - MySQL
-  - Google App Script
 
 &nbsp;
 
