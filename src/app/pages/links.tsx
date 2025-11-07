@@ -28,13 +28,13 @@ export const links = [
   {
     index: 3,
     title: "Get in Touch",
-    href: "mailto:m.medillo13@gmail.com",
+    href: "mailto:mintmedillo13@gmail.com",
     icon: <FaEnvelope />,
   },
   {
     index: 4,
     title: "Curriculum Vitae",
-    href: "https://drive.google.com/file/d/1GZGAkCoefk9JHqW4yBQJh_ClMI1L94X0/view",
+    href: "https://drive.google.com/file/d/1n0TU8AMwrNC_y3imlf5vvq7EzwnVqSoR/view",
     icon: <FaFilePdf />,
   },
 ];
