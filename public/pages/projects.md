@@ -4,6 +4,15 @@ Following projects showcases my skills and experience through real-world example
 
 &nbsp;
 
+## [Smart Compendiums](https://www.smartcompendiums.com/) 🔗
+&nbsp;
+[<img src="https://raw.githubusercontent.com/mint13/vscode-portfolio/main/src/static/smartcompendiums.jpg" width="300" alt="Smart Compendiums" />](https://www.smartcompendiums.com/)
+
+A SaaS/web-platform that enables hospitality properties (hotels, motels, holiday rental/airbnb, events) to build and deploy digital guest guidebooks / compendiums. These replace traditional printed in-room information booklets with mobile/QR/web-accessible interactive guides.
+
+_**Technologies used:**_  PHP, WordPress, Javascript, MySQL, Laravel, Vue.js
+
+&nbsp;
 
 ## [Kyocera Mobile](https://kyoceramobile.com/) 🔗
 &nbsp;
