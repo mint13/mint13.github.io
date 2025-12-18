@@ -10,7 +10,7 @@ Following projects showcases my skills and experience through real-world example
 
 A SaaS/web-platform that enables hospitality properties (hotels, motels, holiday rental/airbnb, events) to build and deploy digital guest guidebooks / compendiums. These replace traditional printed in-room information booklets with mobile/QR/web-accessible interactive guides.
 
-_**Technologies used:**_  PHP, WordPress, Javascript, MySQL, Laravel, Vue.js
+_**Technologies used:**_  PHP, WordPress, Javascript, MySQL, Laravel, Vue.js, Custom Plugin
 
 &nbsp;
 
@@ -44,13 +44,13 @@ _**Technologies used:**_  PHP, WordPress, Woocommerce, Advanced Custom Fields, J
 
 &nbsp;
 
-## [Scamlord AI](https://www.scamlord.ai/) 🔗
+## [Sunshine Coast Getaways](https://www.sunshinecoastgetaways.com.au/) 🔗
 &nbsp;
-[<img src="https://raw.githubusercontent.com/mint13/vscode-portfolio/main/src/static/scamlord.jpg" width="300" alt="Kyocera Mobile" />](https://www.scamlord.ai/)
+[<img src="https://raw.githubusercontent.com/mint13/mint13.github.io/refs/heads/main/src/static/sunsun.jpg" width="300" alt="Sunshine Coast Getaways" />](https://www.sunshinecoastgetaways.com.au/)
 
-A simple web app to check if a listing is valid or scam. Created using WordPress while using Poplar's API to check the validity of the listing.
+Sunshine Coast Getaways is a content-driven accommodation booking platform that allows users to discover and book curated holiday rentals on the Sunshine Coast through an integrated third-party booking engine. The site focuses on SEO-optimized content, scalable property listings, and a streamlined discovery-to-booking user flow.
 
-_**Technologies used:**_  PHP, WordPress, Javascript
+_**Technologies used:**_  PHP, WordPress, Woocommerce, Advanced Custom Fields, Javascript, MySQL, Custom Plugin
 
 &nbsp;
 
@@ -60,6 +60,6 @@ _**Technologies used:**_  PHP, WordPress, Javascript
 
 Portal site for FunFit Kidz program under Active Beginnings AU, for parents and centres to check their students' stats. Created as a dedicated plugin on top of WordPress while connecting to Active Beginnings Portal's database.
 
-_**Technologies used:**_  PHP, WordPress, Woocommerce, Advanced Custom Fields, Javascript, MySQL
+_**Technologies used:**_  PHP, WordPress, Woocommerce, Advanced Custom Fields, Javascript, MySQL, Custom Plugin
 
 &nbsp;
